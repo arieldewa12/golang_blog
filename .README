@@ -1,0 +1,21 @@
+# Test - Ariel
+
+berikut hasil test yg sudah dikerjakan, dengan output sebagai berikut :
+
+- Login Api
+- Register Api
+- Upsert Produk API
+- List Produk API
+- Delete Produk API
+
+Endpoint Dilengkapi dengan Basic Auth
+
+sudah di lengkapi dengan imported database
+
+## Installation
+
+- import DB
+- change env db
+- go mod tidy
+- go build
+- ./klbTest
